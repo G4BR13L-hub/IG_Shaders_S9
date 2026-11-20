@@ -95,6 +95,8 @@ void main() {
 
 ---
 
+![Demo](Shader_gif.gif)
+
 ## 4. Fuentes y Referencias
 
 * **Chladni, E. F. F. (1787).** *Entdeckungen über die Theorie des Klanges*. Base física de las figuras nodales en placas vibrantes.
